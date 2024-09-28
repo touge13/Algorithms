@@ -8,6 +8,7 @@ class Solution:
         dt = {}
         for i in t:
             dt[i] = 1 + dt.get(i, 0)
+            
         minLen = float("inf")
         res = ""
         l = 0
@@ -18,9 +19,11 @@ class Solution:
                     minLen = sum(ds.values())
                     if minLen >= ((r + 1) - l):
                         res = s[l:r+1]
+                        
                 if ds[s[l]] == 1:
                     del ds[s[l]]
                 else:
                     ds[s[l]] -= 1
+                    
                 l += 1
         return res
