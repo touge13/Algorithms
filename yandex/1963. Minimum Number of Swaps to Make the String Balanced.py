@@ -7,4 +7,4 @@ class Solution:
             else:
                 if stackSize > 0:
                     stackSize -= 1
-        return int((stackSize + 1) / 2)
+        return (stackSize + 1) // 2
