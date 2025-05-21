@@ -1,6 +1,6 @@
 # Тренировки по алгоритмам 6.0 от Яндекса
 
-179 место в рейтинге: https://yandex.ru/yaintern/training/results
+179 место в рейтинге: https://yandex.ru/yaintern/training/results-algorithm-6
 <img width="1106" alt="image" src="https://github.com/user-attachments/assets/17daaa69-1d3f-4fa9-953f-a0012b3f4413">
 ![alt text](certificateAlgorithms6.0.jpg)
 <h3>Лекции тренировок:</h3>
